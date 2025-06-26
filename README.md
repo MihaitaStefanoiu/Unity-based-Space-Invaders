@@ -61,5 +61,3 @@ Game Over: Lose all lives, and the game ends. Restart to try again!
 Setup
 
 Clone the repo, open in Unity, and play! Assets, scripts, and setup guide included. 📂
-
-Character count: 349
